@@ -1,0 +1,7 @@
+{
+  "mapSize": 17,
+  "startLength": 3,
+  "numOfStartingObstacles": 0,
+  "snakeGrowth": 1,
+  "objectSize": 30
+}
